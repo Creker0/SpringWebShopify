@@ -59,3 +59,6 @@ Special thanks to the Spring community for providing excellent documentation and
 For any inquiries or feedback, please contact [ihor.danchuk@student.tuke.sk](mailto:ihor.danchuk@student.tuke.sk).
 
 ---
+
+**Note: This project is intended for personal exploration and learning purposes to familiarize myself with the Spring framework. It should not be considered as a production-ready application.**
+
