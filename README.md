@@ -59,5 +59,3 @@ Special thanks to the Spring community for providing excellent documentation and
 For any inquiries or feedback, please contact [ihor.danchuk@student.tuke.sk](mailto:ihor.danchuk@student.tuke.sk).
 
 ---
-
-Feel free to customize this readme file as needed to suit your project. You can add or remove sections, provide more details, or tailor the content based on your project's requirements. Good luck with your project and future job applications!
